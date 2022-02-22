@@ -1,1 +1,2 @@
-# status.trader.xyz
+# [status.trader.xyz](https://status.trader.xyz)
+
